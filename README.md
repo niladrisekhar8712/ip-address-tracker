@@ -15,7 +15,6 @@ View the location on an interactive map.
 * JavaScript
 * Leaflet.js - an open-source JavaScript library for interactive maps
 * ipify API - an IP address lookup API
-* Installation
 
 ## Usage
 * Enter an IP address or domain in the search field.
